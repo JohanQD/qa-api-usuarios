@@ -1,0 +1,14 @@
+# Entorno virtual de Python
+venv/
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Reportes generados
+reports/
+
+# Variables de entorno y credenciales
+.env
