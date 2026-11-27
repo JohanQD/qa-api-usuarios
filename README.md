@@ -73,19 +73,19 @@ Apliqué un ciclo completo de QA sobre la API pública [GoRest](https://gorest.c
 
 **Suite automatizada en GitHub Actions (23 de 23 aprobadas):**
 
-![Ejecución en GitHub Actions](docs/evidencias/github-actions.png)
+![Ejecución en GitHub Actions](docs/Evidencias/github-actions.png)
 
 **Reporte HTML de pytest:**
 
-![Reporte HTML de pytest](docs/evidencias/reporte-pytest.png)
+![Reporte HTML de pytest](docs/Evidencias/reporte-pytest.png)
 
 **Colección de Postman ejecutada con el Collection Runner (11 de 11 aprobadas):**
 
-![Resultados en Postman](docs/evidencias/postman-runner.png)
+![Resultados en Postman](docs/Evidencias/postman-runner.png)
 
 **Tablero de Jira con los casos de prueba y hallazgos:**
 
-![Tablero de Jira](docs/evidencias/jira-tablero.png)
+![Tablero de Jira](docs/Evidencias/jira-tablero.png)
 
 ## 5. Cómo ejecutar el proyecto
 
@@ -140,7 +140,7 @@ qa-api-usuarios/
 │   ├── plan-de-pruebas.md            # Alcance, riesgos y criterios
 │   ├── casos-de-prueba.md            # Casos diseñados y su estado
 │   ├── reportes-de-bugs/             # Plantilla de reporte de defectos
-│   └── evidencias/                   # Capturas de los resultados
+│   └── Evidencias/                   # Capturas de los resultados
 ├── postman/                          # Colección exportada de Postman
 ├── tests/
 │   ├── conftest.py                   # Configuración y datos de prueba
